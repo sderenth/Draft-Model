@@ -22,7 +22,7 @@ blended_single_value_draft_model.ipynb
 ## PIPM Distribution Tool
 PIPM is an all-in-one player metric, designed by Jonathan Goldstein. It measures a player's impact in net points per 100 possessions. In this project it is used as a target variable as proxy for quality/talent.
 
-The distributions made from Random Forest Model are displayed [here] (https://www.thestepien.com/player-distribution-tool/).
+The distributions made from Random Forest Model are displayed [here](https://www.thestepien.com/player-distribution-tool/).
 
 ## Blended Draft Model
 A single number prediction model is also under construction, using several machine learning algorithms.
