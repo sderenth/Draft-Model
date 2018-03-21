@@ -2,7 +2,7 @@
 Predicting success of pre-professional basketball players with machine learning.
 
 ### Data files:
-NCAA Player Stats - Totals.csv
+NCAA Player Stats - Totals.csv  
 NCAA Player Stats - Advanced.csv
 RealGM PlayerInfo.csv
 RSCI.csv
